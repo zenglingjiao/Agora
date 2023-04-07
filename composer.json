@@ -1,0 +1,13 @@
+{
+    "name": "leizi/agora",
+    "description": "Agora",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Leizi\\Agora\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
