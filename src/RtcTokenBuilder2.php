@@ -1,6 +1,9 @@
 <?php
 namespace Leizi\Agora;
 
+use AccessToken2;
+use ServiceRtc;
+
 require_once "AccessToken2.php";
 
 class RtcTokenBuilder2
