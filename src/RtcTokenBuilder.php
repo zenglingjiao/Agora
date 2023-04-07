@@ -1,4 +1,5 @@
 <?php
+namespace Leizi\Agora;
 
 require_once "AccessToken.php";
 

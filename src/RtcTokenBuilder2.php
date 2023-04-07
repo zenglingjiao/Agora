@@ -1,8 +1,5 @@
 <?php
-namespace Leizi\AgoraSDK;
-
-use AccessToken2;
-use ServiceRtc;
+namespace Leizi\Agora;
 
 require_once "AccessToken2.php";
 
